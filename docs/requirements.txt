@@ -1,8 +1,0 @@
-requests
-pandas
-gspread
-google-auth
-google-auth-oauthlib
-flask
-python-dotenv
-pytz
