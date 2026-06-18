@@ -214,5 +214,23 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Streamlit
+# Secrets and credentials
+.env
+token.json
+client_secret.json
+credentials.json
+service_account.json
+*.secret.json
+
+# Local databases
+*.db
+*.sqlite
+activities.db
+
+# Local output
+*.xlsx
+*.csv
+athletes.txt
+logs/
+output/# Streamlit
 .streamlit/secrets.toml
